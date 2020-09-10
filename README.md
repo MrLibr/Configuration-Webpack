@@ -1,1 +1,1 @@
-# Webpack - Configuration
+# Webpack Configuration
